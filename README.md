@@ -59,9 +59,9 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
 4. **RECOMMENDATION SYSTEM**
         The output of the recommendation system shows the top 10 movies or TV shows that are most similar to the input title based on their similarity score calculated         using cosine similarity. Here are some insights you can gather from the output:
-        1- Genre similarity: The recommended movies and TV shows may share the same or similar genre as the input title. For example, Ocean's Eleven and Head Count are            both in the crime genre, while Girlfriend's Day and Frank & Lola are in the romance genre.
-        2- Actor similarity: Some of the recommended movies and TV shows may feature the same actors or actresses as the input title. For example, Ocean's Eleven an              The Trust both star Nicolas Cage.
-        3- Theme or plot similarity: The recommended movies and TV shows may have similar themes or plots as the input title. For example, Fear and Loathing in Las                Vegas and Girlfriend's Day both explore the theme of relationships and self-discovery.
+        1. Genre similarity: The recommended movies and TV shows may share the same or similar genre as the input title. For example, Ocean's Eleven and Head Count are            both in the crime genre, while Girlfriend's Day and Frank & Lola are in the romance genre.
+        2. Actor similarity: Some of the recommended movies and TV shows may feature the same actors or actresses as the input title. For example, Ocean's Eleven an              The Trust both star Nicolas Cage.
+        3. Theme or plot similarity: The recommended movies and TV shows may have similar themes or plots as the input title. For example, Fear and Loathing in Las                Vegas and Girlfriend's Day both explore the theme of relationships and self-discovery.
 
 
 6. **CONCLUSIONS AND INSIGHTS**
