@@ -40,6 +40,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
     3. Missing values
     
         ![Missing](images/missing values.png "Missing")
+        <img src="https://github.com/3amory99/EDA-on-Netflix-Movies-and-TV-Shows-/images/missing values.png)" width="128"/
         
     4. Duplicates
 
