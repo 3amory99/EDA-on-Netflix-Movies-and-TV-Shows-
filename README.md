@@ -50,7 +50,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
     2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
         ![missing values](images/countries_highest movies_and_tv_shows.jpg "missing values")
-
+        <img src="[relative/path/in/repository/to/image.svg](https://github.com/3amory99/EDA-on-Netflix-Movies-and-TV-Shows-/blob/main/images/countries_highest%20movies_and_tv_shows.jpg)" width="128"/>
     3. what is the content added in each year ?  
         ![Content added](images/content_added_in_each_year.jpg "Content added")
 
