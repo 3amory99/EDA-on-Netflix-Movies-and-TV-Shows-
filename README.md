@@ -52,7 +52,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
         ![missing values](images/missing values.png "missing values")
 
     3. what is the content added in each year ?  
-        ![Content added](images/netflix_conent_added.png "Content added")
+        ![Content added](images/countries highest movies and tv shows.jpg "Content added")
 
     4. what are the ratio of the genres ?  
         ![genres](images/netflix_genres.png "genres")
