@@ -10,7 +10,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
 # About the data
 
-### FEATURES:
+### Records:
 
 1. SHOW-ID - Unique id of each show (not much of a use for us in this project)
 2. TYPE - The category of a show, can be either a Movie or a TV Show
@@ -39,7 +39,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
     3. Missing values
     
-        ![Netflix](images/missing values.jpg "Netflix")
+        ![Netflix](images/netflix.jpg "Netflix")
         
     4. Duplicates
 
