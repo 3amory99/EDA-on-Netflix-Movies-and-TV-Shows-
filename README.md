@@ -26,7 +26,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
 
 
-# Contents
+# Content
 0. **ABOUT THE DATA**
 
 1. **IMPORTING LIBRARIES**
@@ -43,7 +43,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
         
     4. Duplicates
 
-3. **DATA ANALYSIS AND CONCLUSIONS**
+3. **DATA ANALYSIS**
 
     1. How content is distributed ?  
         ![Content distribution](images/netflix production types.png "Content distribution")
