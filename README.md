@@ -39,7 +39,7 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
     3. Missing values
     
-        ![Missing](images/missing values.jpg "Missing")
+        ![Missing](images/missing values.png "Missing")
         
     4. Duplicates
 
