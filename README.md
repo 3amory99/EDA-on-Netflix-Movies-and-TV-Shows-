@@ -39,17 +39,17 @@ Netflix is a leading player in streaming media with over 200 million global subs
 
     3. Missing values
     
-        ![Missing](images/missing_values.png "Missing")
+        ![Missing](images/missing_values.jpg "Missing")
         
     4. Duplicates
 
 3. **DATA ANALYSIS**
 
     1. How content is distributed ?  
-        ![Content distribution](images/netflix production types.png "Content distribution")
+        ![Content distribution](images/netflix_production_types.jpg "Content distribution")
 
     2. WHAT ARE THE COUNTRIES WITH HIGHEST NUMBER OF MOVIES & TV-SHOWS ?  
-        ![missing values](images/missing values.png "missing values")
+        ![missing values](images/countries_highest movies_and_tv_shows.jpg "missing values")
 
     3. what is the content added in each year ?  
         ![Content added](images/countries highest movies and tv shows.jpg "Content added")
